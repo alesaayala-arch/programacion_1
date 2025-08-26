@@ -30,4 +30,7 @@ int main()
    {
     cout << "El numero es cero" << endl;
    }
+
+   return 0;
+
 }
