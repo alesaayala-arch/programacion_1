@@ -26,7 +26,8 @@ int esCapicua(int numero)
         return 0;
 }
 
-int main() {
+int main() 
+{
     int num;
     cout << "Ingrese un numero: ";
     cin >> num;
@@ -37,4 +38,5 @@ int main() {
         cout << num << " no es capicua" << endl;
 
     return 0;
+
 }
