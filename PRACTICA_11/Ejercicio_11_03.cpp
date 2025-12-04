@@ -1,3 +1,8 @@
+// Materia: Programación I, Paralelo 4
+// Autor: Alesa Pierina Ayala Aliaa
+// Fecha creación: 04/12/2025
+// Número de ejercicio: 3
+
 #include <iostream>
 #include <fstream>
 #include <string>
@@ -169,3 +174,4 @@ void MenuPizzeria(string archivoPizzas, string archivoVentas)
         }
     }while(opcion!=0);
 }
+
