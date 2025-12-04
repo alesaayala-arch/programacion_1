@@ -1,3 +1,8 @@
+// Materia: Programación I, Paralelo 4
+// Autor: Alesa Pierina Ayala Aliaa
+// Fecha creación: 04/12/2025
+// Número de ejercicio: 4
+
 #include <iostream>
 #include <fstream>
 #include <string>
@@ -129,3 +134,4 @@ void MenuNotasUCB(string archivo)
         }
     }while(opcion!=0);
 }
+
