@@ -1,3 +1,8 @@
+// Materia: Programación I, Paralelo 4
+// Autor: Alesa Pierina Ayala Aliaa
+// Fecha creación: 04/12/2025
+// Número de ejercicio: 2
+
 #include <iostream>
 #include <fstream>
 #include <string>
@@ -162,3 +167,4 @@ void MenuFarmacia(string archivoProductos, string archivoVentas)
         }
     }while(opcion!=0);
 }
+
